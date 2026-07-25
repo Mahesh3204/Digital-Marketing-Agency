@@ -53,11 +53,12 @@ export default function Process() {
                 0{step.id}
               </div>
               
-              <div className="w-12 h-12 rounded-full bg-primary/20 text-primary flex items-center justify-center font-bold text-xl mb-6">
-                {step.id}
+              <div className="flex items-center gap-4 mb-4">
+                <div className="w-12 h-12 rounded-full bg-primary/20 text-primary flex items-center justify-center font-bold text-xl shrink-0">
+                  {step.id}
+                </div>
+                <h3 className="text-2xl font-heading font-semibold">{step.title}</h3>
               </div>
-              
-              <h3 className="text-2xl font-heading font-semibold mb-4">{step.title}</h3>
               <p className="text-gray-400 relative z-10">{step.desc}</p>
             </motion.div>
           ))}

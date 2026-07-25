@@ -81,7 +81,7 @@ export default function Services() {
               viewport={{ once: true }}
               transition={{ delay: index * 0.1 }}
               whileHover={{ y: -10 }}
-              className="p-8 rounded-2xl bg-background border border-gray-100 hover:shadow-2xl transition-all duration-300 group cursor-pointer"
+              className="p-8 rounded-2xl bg-gray-50 border border-gray-200 hover:shadow-2xl transition-all duration-300 group cursor-pointer"
             >
               <div className={`w-16 h-16 rounded-xl ${service.bg} ${service.color} flex items-center justify-center mb-6 group-hover:scale-110 transition-transform duration-300`}>
                 {service.icon}
