@@ -38,7 +38,7 @@ function Loader() {
           transition={{ delay: 0.5 }}
           className="mt-6 text-2xl font-heading text-white tracking-widest uppercase"
         >
-          GrowthForge
+          GrowthWave
         </motion.h2>
       </div>
     </motion.div>

@@ -11,7 +11,7 @@ export default function Footer() {
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center shadow-lg">
                 <span className="text-white text-lg font-bold">G</span>
               </div>
-              GrowthForge
+              GrowthWave
             </div>
             <p className="text-gray-400 mb-8 max-w-sm">
               An award-winning digital marketing agency dedicated to scaling ambitious brands through data-driven strategies and creative excellence.
@@ -58,7 +58,7 @@ export default function Footer() {
         </div>
 
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-gray-500">
-          <p>&copy; {new Date().getFullYear()} GrowthForge Agency. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} GrowthWave Agency. All rights reserved.</p>
           <p>Designed with ❤️ for growth.</p>
         </div>
       </div>

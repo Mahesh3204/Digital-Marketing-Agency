@@ -11,7 +11,7 @@ const testimonials = [
     name: "Sarah Jenkins",
     role: "CMO, TechFlow",
     image: "/src/assets/unsplash-1.jpg",
-    text: "GrowthForge completely transformed our digital presence. Within 6 months, our organic traffic increased by 240% and our customer acquisition cost dropped by half."
+    text: "GrowthWave completely transformed our digital presence. Within 6 months, our organic traffic increased by 240% and our customer acquisition cost dropped by half."
   },
   {
     name: "Michael Chen",
@@ -23,13 +23,13 @@ const testimonials = [
     name: "Emma Watson",
     role: "VP Marketing, Elevate",
     image: "/src/assets/unsplash-3.jpg",
-    text: "Our paid social campaigns were burning cash before GrowthForge stepped in. They restructured everything and got us to a 4.8x ROAS in just 30 days."
+    text: "Our paid social campaigns were burning cash before GrowthWave stepped in. They restructured everything and got us to a 4.8x ROAS in just 30 days."
   },
   {
     name: "David Rodriguez",
     role: "CEO, Finova",
     image: "/src/assets/unsplash-4.jpg",
-    text: "It's rare to find an agency that genuinely cares about your bottom line. GrowthForge feels like an in-house team rather than an external vendor."
+    text: "It's rare to find an agency that genuinely cares about your bottom line. GrowthWave feels like an in-house team rather than an external vendor."
   }
 ];
 

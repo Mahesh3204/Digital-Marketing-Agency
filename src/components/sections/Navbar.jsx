@@ -35,7 +35,7 @@ export default function Navbar() {
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center shadow-lg">
               <span className="text-white text-lg font-bold">G</span>
             </div>
-            GrowthForge
+            GrowthWave
           </div>
 
           {/* Desktop Nav */}

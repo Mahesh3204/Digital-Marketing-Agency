@@ -66,7 +66,7 @@ export default function About() {
               <span className="text-gradient">We Build Empires.</span>
             </h2>
             <p className="text-base text-gray-600 mb-8">
-              GrowthForge is an award-winning digital marketing agency dedicated to scaling ambitious brands. We combine data science with creative storytelling to deliver predictable, scalable growth.
+              GrowthWave is an award-winning digital marketing agency dedicated to scaling ambitious brands. We combine data science with creative storytelling to deliver predictable, scalable growth.
             </p>
             
             <div className="space-y-4 mb-10">
