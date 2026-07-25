@@ -7,19 +7,19 @@ const posts = [
     title: "The Future of SEO: AI and Search Generative Experience",
     category: "SEO Strategy",
     date: "Oct 12, 2026",
-    image: "/src/assets/unsplash-16.jpg"
+    image: "./assets/unsplash-16.jpg"
   },
   {
     title: "How to Build a High-Converting B2B Marketing Funnel",
     category: "Conversion",
     date: "Sep 28, 2026",
-    image: "/src/assets/unsplash-10.jpg"
+    image: "./assets/unsplash-10.jpg"
   },
   {
     title: "Maximizing ROAS on Meta Ads in 2026",
     category: "Paid Advertising",
     date: "Sep 15, 2026",
-    image: "/src/assets/unsplash-12.jpg"
+    image: "./assets/unsplash-12.jpg"
   }
 ];
 

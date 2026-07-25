@@ -4,11 +4,11 @@ import { motion, AnimatePresence } from 'framer-motion';
 const categories = ["All", "Website Design", "Brand Identity", "Social Campaigns"];
 
 const projects = [
-  { id: 1, title: "Fintech Rebrand", category: "Brand Identity", image: "/src/assets/unsplash-9.jpg" },
-  { id: 2, title: "E-Commerce App", category: "Website Design", image: "/src/assets/unsplash-10.jpg" },
-  { id: 3, title: "SaaS Launch", category: "Social Campaigns", image: "/src/assets/saas_launch.png" },
-  { id: 5, title: "Crypto Landing Page", category: "Website Design", image: "/src/assets/crypto_landing.png" },
-  { id: 6, title: "Fashion Ad Campaign", category: "Social Campaigns", image: "/src/assets/unsplash-14.jpg" },
+  { id: 1, title: "Fintech Rebrand", category: "Brand Identity", image: "./assets/unsplash-9.jpg" },
+  { id: 2, title: "E-Commerce App", category: "Website Design", image: "./assets/unsplash-10.jpg" },
+  { id: 3, title: "SaaS Launch", category: "Social Campaigns", image: "./assets/saas_launch.png" },
+  { id: 5, title: "Crypto Landing Page", category: "Website Design", image: "./assets/crypto_landing.png" },
+  { id: 6, title: "Fashion Ad Campaign", category: "Social Campaigns", image: "./assets/unsplash-14.jpg" },
 ];
 
 export default function Portfolio() {

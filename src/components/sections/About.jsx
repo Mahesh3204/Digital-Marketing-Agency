@@ -25,12 +25,12 @@ export default function About() {
           >
             <div className="relative rounded-3xl overflow-hidden border border-white/20 shadow-2xl">
               <img 
-                src="/src/assets/about_agency.png" 
+                src="./assets/about_agency.png" 
                 alt="Marketing Team" 
                 className="w-full h-auto object-cover"
                 onError={(e) => {
                   e.target.onerror = null; 
-                  e.target.src = "/src/assets/unsplash-17.jpg";
+                  e.target.src = "./assets/unsplash-17.jpg";
                 }}
               />
               <div className="absolute inset-0 bg-gradient-to-tr from-primary/20 to-transparent"></div>

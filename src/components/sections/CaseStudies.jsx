@@ -7,19 +7,19 @@ const cases = [
     client: "TechFlow SaaS",
     category: "SEO & Content",
     results: "+240% Organic Traffic",
-    image: "/src/assets/unsplash-12.jpg"
+    image: "./assets/unsplash-12.jpg"
   },
   {
     client: "Luminary Beauty",
     category: "Paid Social",
     results: "4.8x ROAS",
-    image: "/src/assets/unsplash-15.jpg"
+    image: "./assets/unsplash-15.jpg"
   },
   {
     client: "Fintech Startup",
     category: "Google Ads",
     results: "-45% Cost Per Lead",
-    image: "/src/assets/unsplash-10.jpg"
+    image: "./assets/unsplash-10.jpg"
   }
 ];
 

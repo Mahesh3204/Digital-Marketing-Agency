@@ -10,25 +10,25 @@ const testimonials = [
   {
     name: "Sarah Jenkins",
     role: "CMO, TechFlow",
-    image: "/src/assets/unsplash-1.jpg",
+    image: "./assets/unsplash-1.jpg",
     text: "GrowthWave completely transformed our digital presence. Within 6 months, our organic traffic increased by 240% and our customer acquisition cost dropped by half."
   },
   {
     name: "Michael Chen",
     role: "Founder, Luminary",
-    image: "/src/assets/unsplash-2.jpg",
+    image: "./assets/unsplash-2.jpg",
     text: "The level of transparency and strategic thinking this team brings is unmatched. Their customized dashboards gave us insights we never knew we needed."
   },
   {
     name: "Emma Watson",
     role: "VP Marketing, Elevate",
-    image: "/src/assets/unsplash-3.jpg",
+    image: "./assets/unsplash-3.jpg",
     text: "Our paid social campaigns were burning cash before GrowthWave stepped in. They restructured everything and got us to a 4.8x ROAS in just 30 days."
   },
   {
     name: "David Rodriguez",
     role: "CEO, Finova",
-    image: "/src/assets/unsplash-4.jpg",
+    image: "./assets/unsplash-4.jpg",
     text: "It's rare to find an agency that genuinely cares about your bottom line. GrowthWave feels like an in-house team rather than an external vendor."
   }
 ];

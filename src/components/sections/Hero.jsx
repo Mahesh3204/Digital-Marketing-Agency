@@ -65,12 +65,12 @@ export default function Hero() {
           >
             <div className="relative rounded-2xl overflow-hidden glass shadow-2xl p-2 border border-white/40">
                <img 
-                 src="/src/assets/agency_dashboard.png" 
+                 src="./assets/agency_dashboard.png" 
                  alt="Marketing Dashboard Analytics" 
                  className="w-full h-auto rounded-xl object-cover shadow-inner"
                  onError={(e) => {
                    e.target.onerror = null; 
-                   e.target.src = "/src/assets/unsplash-10.jpg";
+                   e.target.src = "./assets/unsplash-10.jpg";
                  }}
                />
                

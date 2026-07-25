@@ -6,22 +6,22 @@ const team = [
   {
     name: "Alex Sterling",
     role: "CEO & Strategy Director",
-    image: "/src/assets/unsplash-5.jpg"
+    image: "./assets/unsplash-5.jpg"
   },
   {
     name: "Mia Chang",
     role: "Head of Growth",
-    image: "/src/assets/unsplash-6.jpg"
+    image: "./assets/unsplash-6.jpg"
   },
   {
     name: "Marcus Johnson",
     role: "Performance Marketing Lead",
-    image: "/src/assets/unsplash-7.jpg"
+    image: "./assets/unsplash-7.jpg"
   },
   {
     name: "Elena Rodriguez",
     role: "Creative Director",
-    image: "/src/assets/unsplash-8.jpg"
+    image: "./assets/unsplash-8.jpg"
   }
 ];
 
